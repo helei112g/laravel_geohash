@@ -49,5 +49,7 @@ SELECT * FROM `address` WHERE LEFT(`geohash`,5) IN ('wm6n0','wm6j8','wm6jc','wm3
 
 备注：这只是附近的点实现的一种技术方案。更推荐使用mongodb
 
-
+其他资料：
+* 原理解释：http://www.cnblogs.com/LBSer/p/3310455.html
+* geohash演示: http://openlocation.org/geohash/geohash-js/
 
