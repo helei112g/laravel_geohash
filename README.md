@@ -51,5 +51,5 @@ SELECT * FROM `address` WHERE LEFT(`geohash`,5) IN ('wm6n0','wm6j8','wm6jc','wm3
 
 其他资料：
 * 原理解释：http://www.cnblogs.com/LBSer/p/3310455.html
-* geohash演示: http://openlocation.org/geohash/geohash-js/
+* geohash演示: http://cevin.science/geohash/
 
